@@ -15,6 +15,7 @@
 | 1 | Wordle Çözücü: Python ile Türkçe Wordle | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/01-wordle-cozucu.ipynb) |
 | 2 | Netflix İzleme Geçmişi Panosu 1: Veriyi İndirip Temizlemek | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/02-netflix-panosu-1.ipynb) |
 | 3 | Squid Game'deki Cam Köprüyü Python ile Simüle Etmek | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/03-squid-game-cam-kopru.ipynb) |
+| 4 | Mini RL Projesi: Yılan Oyununu Sıfırdan Kurup Bir Ajana Öğrettim | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/04-mini-rl-yilan.ipynb) |
 
 Yeni projeler yayımlandıkça bu listeye eklenecek.
 
