@@ -17,6 +17,7 @@
 | 3 | Squid Game'deki Cam Köprüyü Python ile Simüle Etmek | [Yazıyı oku](https://haticeozbolat.com/?p=1062) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/03-squid-game-cam-kopru.ipynb) |
 | 4 | Mini RL Projesi: Yılan Oyununu Sıfırdan Kurup Bir Ajana Öğrettim | [Yazıyı oku](https://haticeozbolat.com/?p=1067) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/04-mini-rl-yilan.ipynb) |
 | 5 | Matrix Yağmurunu Terminalde Kodlamak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/05-matrix-yagmuru.ipynb) |
+| 6 | Netflix İzleme Geçmişi Panosu 2: Streamlit ile Panoya Dönüştürmek | [Yazıyı oku]([YAZI LİNKİ]) | Streamlit uygulaması: [netflix-pano](netflix-pano/) |
 
 Yeni projeler yayımlandıkça bu listeye eklenecek.
 
