@@ -18,6 +18,7 @@
 | 4 | Mini RL Projesi: Yılan Oyununu Sıfırdan Kurup Bir Ajana Öğrettim | [Yazıyı oku](https://haticeozbolat.com/?p=1067) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/04-mini-rl-yilan.ipynb) |
 | 5 | Matrix Yağmurunu Terminalde Kodlamak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/05-matrix-yagmuru.ipynb) |
 | 6 | Netflix İzleme Geçmişi Panosu 2: Streamlit ile Panoya Dönüştürmek | [Yazıyı oku]([YAZI LİNKİ]) | Streamlit uygulaması: [netflix-pano](netflix-pano/) |
+| 7 | Seçmen Şapkası: Basit Bir Sınıflandırma Modeli | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/06-secmen-sapkasi.ipynb) |
 
 Yeni projeler yayımlandıkça bu listeye eklenecek.
 
@@ -26,6 +27,7 @@ Yeni projeler yayımlandıkça bu listeye eklenecek.
 Her not defteri kullandığı verinin kaynağını ve lisansını belirtir. Bu depo veri dosyalarını kopyalamaz; not defterleri veriyi asıl kaynağından indirir.
 
 - Wordle çözücü: [hunspell-tr](https://github.com/tdd-ai/hunspell-tr) (MPL-2.0) ve [wordfreq](https://pypi.org/project/wordfreq/)
+- Seçmen Şapkası: Not defteri hayali öğrenci verisini kendisi üretir; kitap ya da filmlerden karakter, metin veya görsel kullanılmaz.
 - Netflix panosu: Veriyi sen kendi hesabından indirip yüklersin. Depoda kimsenin izleme geçmişi yoktur; dosya yoksa not defteri hayali örnek veri üretir.
 
 Bu seride dizi, film ve oyunların görselleri, logoları ya da metinleri kullanılmaz.
