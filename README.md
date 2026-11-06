@@ -19,6 +19,7 @@
 | 5 | Matrix Yağmurunu Terminalde Kodlamak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/05-matrix-yagmuru.ipynb) |
 | 6 | Netflix İzleme Geçmişi Panosu 2: Streamlit ile Panoya Dönüştürmek | [Yazıyı oku]([YAZI LİNKİ]) | Streamlit uygulaması: [netflix-pano](netflix-pano/) |
 | 7 | Seçmen Şapkası: Basit Bir Sınıflandırma Modeli | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/06-secmen-sapkasi.ipynb) |
+| 8 | Netflix'te Ne İzlesem? Basit Bir Öneri Sistemi | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/pop-kultur-kodluyorum/blob/main/07-ne-izlesem-oneri-sistemi.ipynb) |
 
 Yeni projeler yayımlandıkça bu listeye eklenecek.
 
@@ -27,6 +28,7 @@ Yeni projeler yayımlandıkça bu listeye eklenecek.
 Her not defteri kullandığı verinin kaynağını ve lisansını belirtir. Bu depo veri dosyalarını kopyalamaz; not defterleri veriyi asıl kaynağından indirir.
 
 - Wordle çözücü: [hunspell-tr](https://github.com/tdd-ai/hunspell-tr) (MPL-2.0) ve [wordfreq](https://pypi.org/project/wordfreq/)
+- Ne İzlesem?: Dizi adları gerçek, etiketler öznel ve elle verildi; Netflix verisi, görseli ya da logosu kullanılmaz.
 - Seçmen Şapkası: Not defteri hayali öğrenci verisini kendisi üretir; kitap ya da filmlerden karakter, metin veya görsel kullanılmaz.
 - Netflix panosu: Veriyi sen kendi hesabından indirip yüklersin. Depoda kimsenin izleme geçmişi yoktur; dosya yoksa not defteri hayali örnek veri üretir.
 
